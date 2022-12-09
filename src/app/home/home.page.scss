@@ -1,0 +1,26 @@
+ion-header{
+    --background:rgb(8, 236, 111);
+    ion-title{
+        color: white;
+    }
+    ion-icon{
+        color: white;
+    }
+}
+
+ion-toolbar{
+    --background:#ff006a;
+}
+
+ion-content{
+    --background:#ff006a;
+    ion-item{
+        --background: #ffff;
+        span{
+            color: #ff006a;
+        }
+        h1{
+            color: #ff006a;
+        }
+    }
+}

@@ -1,0 +1,34 @@
+.msg-erro{
+    color: rgb(228, 12, 12);
+    font-size: 10px;
+    clear: both;
+    position: relative;
+}
+
+ion-header{
+    --background:rgb(8, 236, 111);
+    ion-title{
+        color: white;
+    }
+    ion-icon{
+        color: white;
+    }
+}
+
+ion-toolbar{
+    --background:#ff006a;
+}
+
+ion-content{
+    --background:#ff006a;
+    ion-item{
+        --background: #ffff;
+        span{
+            color: #ff006a;
+        }
+        h1{
+            color: #ff006a;
+        }
+    }
+}
+
